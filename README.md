@@ -7,6 +7,8 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **University of Ruhuna**
 
+- 🌱 I’m currently learning **Kubernetes**
+
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **inupavihan@gmail.com**
