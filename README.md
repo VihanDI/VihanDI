@@ -99,7 +99,10 @@
   </a> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/VihanDI/skill-icons/blob/main/skill-icons/icons/Spring-Dark.svg" alt="spring" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/VihanDI/skill-icons/blob/main/skill-icons/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/VihanDI/skill-icons/blob/main/skill-icons/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> 
   </a> 
