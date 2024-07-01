@@ -52,9 +52,6 @@
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/VihanDI/skill-icons/blob/main/skill-icons/icons/CS.svg" alt="csharp" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/VihanDI/skill-icons/blob/main/skill-icons/icons/CSS.svg" alt="css3" width="40" height="40"/> 
-  </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/VihanDI/skill-icons/blob/main/skill-icons/icons/Dart-Dark.svg" alt="dart" width="40" height="40"/> 
   </a>
@@ -102,8 +99,5 @@
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/VihanDI/skill-icons/blob/main/skill-icons/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/VihanDI/skill-icons/blob/main/skill-icons/icons/TypeScript.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
