@@ -21,12 +21,10 @@
 <tr border="none">
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=VihanDI&theme=darcula&show_icons=true&count_private=true" />
-  <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VihanDI&theme=darcula" /> 
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=VihanDI&theme=darcula&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=VihanDI&theme=darcula&&show_icons=true&locale=en&layout=compact"/>
   
   </td>
 </tr>
