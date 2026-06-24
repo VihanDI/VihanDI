@@ -1,16 +1,27 @@
-<h1 align="center">Hi 👋, I'm Inupa Vihan</h1>
-<h3 align="center">A passionate Computer Engineering Undergraduate from Sri Lanka</h3>
+<h1 align="center">Hi 👋🏼, I'm Inupa Vihan</h1>
+<h3 align="center">A passionate Computer Engineer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vihandi&label=Profile%20views&color=6f6e6e&style=flat" alt="vihandi" /> </p>
+I’m a recent Computer Engineering graduate with a strong passion for Machine Learning, Data Science, Data Engineering and Artificial Intelligence. I’m keen on research and development, focusing on applying data-driven and AI techniques to solve real-world problems and create meaningful impact.
 
-- 🧑‍🎓 I’m an Undergraduate at **University of Ruhuna**
+## Experience & Education
+- **Machine Learning Engineer Intern** @ EigenGlobal
+- **B.Sc. Eng. (Hons) in Computer Engineering** @ University of Ruhuna 
 
-- 📫 How to reach me **inupavihan@gmail.com**
+## Technical Skills
+
+- **ML & AI:** Supervised Learning, Unsupervised Learning, Deep Learning, NLP
+- **Data Science:** Time Series Analysis, Mathematical Optimization
+- **Data & MLOps:** MLFlow, Docker, Apache Kafka, Apache Spark, Apache Airflow
+- **Frameworks:** Pytorch, TensorFlow, LangChain, Plotly Dash, LangGraph, FastAPI
+- **Databases:** MySQL, MongoDB, Pinecone, Qdrant
+
+---
+
+- 📫 How to reach me: **inupavihan@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/inupa-vihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="inupa-vihan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23001181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23001181" height="30" width="40" /></a>
 </p>
 
 ---
@@ -34,29 +45,32 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+  <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> 
   </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+  <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="csharp" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="dart" width="40" height="40"/> 
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Anaconda-Dark.svg" alt="anaconda" width="40" height="40"/> 
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="kafka" width="40" height="40"/> 
+  </a>
+  <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/> 
   </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> 
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="fastapi" width="40" height="40"/> 
   </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="flutter" width="40" height="40"/> 
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="grafana" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/> 
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/airflow.svg" alt="airflow" width="40" height="40"/> 
   </a> 
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/> 
@@ -72,9 +86,6 @@
   </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="pytorch" width="40" height="40"/> 
