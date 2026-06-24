@@ -51,7 +51,7 @@ I’m a recent Computer Engineering graduate with a strong passion for Machine L
   <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
@@ -67,12 +67,18 @@ I’m a recent Computer Engineering graduate with a strong passion for Machine L
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" alt="fastapi" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="grafana" width="40" height="40"/> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" alt="selenium" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Dark.svg" alt="grafana" width="40" height="40"/> 
+  </a>
+  <a target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" alt="jenkins" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
@@ -88,9 +94,6 @@ I’m a recent Computer Engineering graduate with a strong passion for Machine L
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ScikitLearn-Dark.svg" alt="scikit_learn" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
@@ -98,8 +101,5 @@ I’m a recent Computer Engineering graduate with a strong passion for Machine L
   </a>
   <a target="_blank" rel="noreferrer"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> 
   </a>
 </p>
